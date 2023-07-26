@@ -25,3 +25,5 @@ the line format is `AGP_VERSION;GRADLE_VERSION` and each line will create a bran
 | agp-8-1 | AGP 8.1.0-rc1 and Gradle 8.0 |
 | agp-8-2 | AGP 8.2.0-alpha13 and Gradle 8.1 |
 
+If you want to contribute, you should create a pull-request on studio-main
+branch. All other branches are read-only.
